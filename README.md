@@ -132,5 +132,4 @@ pip install numpy
 
 The notebook produces a list of MSE values during training, which shows how the error changes over time and whether the model is converging.
 
--
 
