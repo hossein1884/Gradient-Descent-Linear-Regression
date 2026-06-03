@@ -2,7 +2,6 @@
 
 [![Python 3.x](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-Required-green.svg)](https://numpy.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains a lightweight educational implementation of **Simple Linear Regression** built completely from scratch using **NumPy**.
 
