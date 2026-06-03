@@ -132,35 +132,5 @@ pip install numpy
 
 The notebook produces a list of MSE values during training, which shows how the error changes over time and whether the model is converging.
 
----
+-
 
-## Possible Improvements
-
-- Add visualizations for the regression line
-- Plot the loss curve over epochs
-- Support multiple features for multivariate linear regression
-- Replace the manual gradient calculation with a more general implementation
-- Add documentation and comments to each cell
-
----
-
-## Future Work
-
-This project can be extended into a more complete machine learning tutorial by adding:
-
-- Data visualization with `matplotlib`
-- Comparison with Scikit-Learn results
-- Support for real-world datasets
-- Mini-batch or stochastic gradient descent
-
----
-
-## License
-
-This project is released under the MIT License.
-
----
-
-## Author
-
-Created as an educational project to understand the fundamentals of linear regression and gradient descent.
